@@ -4,7 +4,7 @@ Speech-to-Sign Language Translator
 
 Gesture Bridge is a speech-to-sign language translation application that converts live speech or recorded audio into Indian Sign Language (ISL) images or GIFs. The system is designed to reduce communication barriers between hearing individuals and the deaf or hard-of-hearing community by providing clear visual sign representations in real time.
 
-** Features**
+**Features**
 
 Captures live speech input through a microphone
 
@@ -18,7 +18,7 @@ Displays corresponding ISL images or GIFs for better visual understanding
 
 Includes a voice-controlled command to safely exit the application
 
-** Tech Stack**
+**Tech Stack**
 
 Programming Language: Python
 
@@ -32,7 +32,7 @@ Natural Language Processing: NLTK
 
 Translation Method: Dictionary-based mapping to ISL signs
 
-** Objective**
+**Objective**
 
 Enable accessible and inclusive communication using Indian Sign Language
 
